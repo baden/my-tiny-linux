@@ -16,6 +16,7 @@ brew install riscv64-elf-gcc
 
 Бляха, який поставився?
 
+```
 riscv64-unknown-elf-gcc --version
 riscv64-unknown-elf-gcc (gc891d8dc2) 13.2.0
 
@@ -23,6 +24,7 @@ riscv64-elf-gcc --version
 riscv64-elf-gcc (GCC) 14.2.0
 /opt/homebrew/bin/riscv64-elf-gcc
 /opt/homebrew/bin/riscv64-unknown-elf-gcc
+```
 
 Мабуть другий. Перший вже якось встановлено раніше.
 
